@@ -4,4 +4,8 @@ this repo is only meant to be used by students to learn git and try diff git com
 
 this is second line changed during the session
 
+
 this is third line 
+
+this is third change upon second line
+
